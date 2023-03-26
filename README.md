@@ -1,9 +1,7 @@
-<div>
-  
-  <h1 align="center">
-    Oba eu sou o 
-    <a href="https://www.linkedin.com/in/wagnerldsfilho/">Wagner Duarte</a>
-  </h1>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=83a2eb&size=35&center=true&vCenter=true&width=1000&lines=Obaa!,+Eu+sou+o+Wagner+Duarte;Tenho+18+anos+;Cursando+Data+Science;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+
   
   <p align="center">
     Estudo Ciência de dados pela faculdade 
@@ -38,14 +36,4 @@
 <div align="center">
   <a href=https://www.linkedin.com/in/wagnerldsfilho/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wagner11052004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<div align="center">
-
-  ![Snake animation](https://github.com/wagnerldsfilho/wagnerldsfilho/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<div align="center">
-  <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
