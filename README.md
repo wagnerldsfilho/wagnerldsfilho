@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=83a2eb&size=35&center=true&vCenter=true&width=1000&lines=Obaa!,+Eu+sou+o+Wagner+Duarte;Tenho+18+anos+;Cursando+Data+Science;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=83a2eb&size=35&center=true&vCenter=true&width=1000&lines=Obaa!,+Eu+sou+o+Wagner+Duarte;Estou+cursando+Data+Science;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
   
   <p align="center">
