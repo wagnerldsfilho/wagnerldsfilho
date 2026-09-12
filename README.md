@@ -1,10 +1,10 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=83a2eb&size=35&center=true&vCenter=true&width=1000&lines=Obaa!,+Eu+sou+o+Wagner+Duarte;Estou+cursando+Data+Science;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=83a2eb&size=35&center=true&vCenter=true&width=1000&lines=Oláá!,+Eu+sou+o+Wagner+Duarte;Estou+cursando+Análise+de+Dados;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
   
   <p align="center">
-    Estudo Ciência de dados pela faculdade 
+    Sou formado em Ciência de dados pela faculdade 
     <a href=https://descomplica.com.br/faculdade/>Descomplica </a> 
     e também faço cursos da área na 
     <a href=https://www.alura.com.br/> Alura </a>
