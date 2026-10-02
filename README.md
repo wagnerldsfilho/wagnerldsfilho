@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=83a2eb&size=35&center=true&vCenter=true&width=1000&lines=Oláá!,+Eu+sou+o+Wagner+Duarte;Estou+cursando+Análise+de+Dados;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=83a2eb&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Eu+sou+o+Wagner+Duarte;Analista+de+Dados;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
   
   <p align="center">
